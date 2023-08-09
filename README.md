@@ -20,4 +20,4 @@ Aprender de leer documentación
 Requisitos:
 Un repositorio de github contenga todos los tests
 
-![image] (Test.png)
+![Resultados del Test](Test.png)
